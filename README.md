@@ -1,3 +1,6 @@
+# Website
+https://tamim2763.github.io/dice-game/
+
 # Dice Game 🎲
 
 A simple web-based dice game where two players (automatically by refreshing) roll dice and compete for the highest roll. Built with HTML, CSS, and JavaScript.
